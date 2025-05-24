@@ -2,3 +2,5 @@
 langchain
 faiss-cpu
 flask_cors
+langchain_google_genai
+langchain_community
